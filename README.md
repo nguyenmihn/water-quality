@@ -97,14 +97,8 @@ SPI, Wire
 Install via Library Manager in Arduino IDE.
 
 🧠 Function Highlight
-cpp
-Sao chép
-Chỉnh sửa
 float round_to_dp(float in_value, int decimal_place)
 A helper to round any float to a desired number of decimal places.
-
-📷 Preview
-(Add your hardware photo or screenshot here)
 
 📄 License
 This project is licensed under the MIT License – feel free to use and modify for educational or research purposes.
